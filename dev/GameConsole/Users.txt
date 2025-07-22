@@ -1,0 +1,5 @@
+Alex,test1234,25,dark
+Mike33,password0,30,light
+Ashley_C,java1234,24,dark
+Freddy21,csharp!,32,light
+jack,jacktest,19,light
